@@ -1,0 +1,15 @@
+F:\VS pr\CustomCollection\CustomCollection\bin\Debug\net6.0\CustomCollection.exe
+F:\VS pr\CustomCollection\CustomCollection\bin\Debug\net6.0\CustomCollection.deps.json
+F:\VS pr\CustomCollection\CustomCollection\bin\Debug\net6.0\CustomCollection.runtimeconfig.json
+F:\VS pr\CustomCollection\CustomCollection\bin\Debug\net6.0\CustomCollection.dll
+F:\VS pr\CustomCollection\CustomCollection\bin\Debug\net6.0\CustomCollection.pdb
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.csproj.AssemblyReference.cache
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.AssemblyInfoInputs.cache
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.AssemblyInfo.cs
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.csproj.CoreCompileInputs.cache
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.dll
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\refint\CustomCollection.dll
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.pdb
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\CustomCollection.genruntimeconfig.cache
+F:\VS pr\CustomCollection\CustomCollection\obj\Debug\net6.0\ref\CustomCollection.dll
